@@ -2,7 +2,7 @@
 // import 'package:bluetooth_print/bluetooth_print_model.dart';
 import 'package:esc_pos_utils/esc_pos_utils.dart';
 import 'package:flutter/material.dart';
-import 'package:printing/printing.dart';
+import 'package:Bluetooth_printer/printing.dart';
 
 import 'package:url_launcher/url_launcher.dart';
 

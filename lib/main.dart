@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:printing/home.dart';
+import 'package:Bluetooth_printer/home.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

@@ -9,7 +9,7 @@
     <uses-permission android:name="android.permission.BLUETOOTH_ACCESS_BACKGROUND_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
-        android:label="printing"
+        android:label="Bluetooth_printer"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
